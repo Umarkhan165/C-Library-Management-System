@@ -1,4 +1,4 @@
-# C-Library-Management-System
+# C++ Library-Management-System
 Simple Library Management System using C++ and Object-Oriented Programming.
 # 📚 C++ Library Management System
 
